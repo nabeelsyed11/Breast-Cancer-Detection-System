@@ -83,20 +83,3 @@ Integrate cross-validation and hyperparameter tuning
 📜 License
 This project is open source and available under the MIT License.
 
-
-▶️ How to Run
-Clone this repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/breast-cancer-detection.git
-cd breast-cancer-detection
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the notebook
-Open breast_cancer_detection.ipynb in Jupyter and run all cells.
