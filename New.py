@@ -1,4 +1,6 @@
 if a=0
 print ('hello')
-else
+elseif
   print('Bye')
+else
+  print ('goodbye')
