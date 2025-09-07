@@ -86,4 +86,4 @@ The models achieved **high accuracy (97%+ depending on the algorithm).**
 ## 📜 License  
 This project is open source and available under the **MIT License**.  
 
-🔗 **Project Link:** [Breast Cancer Detection System](https://github.com/yourusername/Breast-Cancer-Detection-System)  
+🔗 **Project Link:** [Breast Cancer Detection System](https://breast-cancer-detection-system.streamlit.app/)  
