@@ -3,7 +3,8 @@ import numpy as np
 import joblib
 
 # load your trained model (pipeline or SVC + scaler)
-model = joblib.load("model_or_pipeline.joblib")
+model = joblib.load("svc_model.joblib")
+
 
 FEATURES = [
     "mean radius","mean texture","mean perimeter","mean area","mean smoothness",
