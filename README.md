@@ -61,8 +61,8 @@ The models achieved **high accuracy (97%+ depending on the algorithm).**
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/Breast-Cancer-Detection-System.git
-   cd Breast-Cancer-Detection-System
+   git clone https://github.com/nabeelsyed11/Breast-Cancer-Detection.git
+   cd Breast-Cancer-Detection
    ```
 
 2. **Install dependencies**  
